@@ -1,0 +1,7 @@
+{
+  "name": "Thumb_Raiser - Merged - CDN",
+  "version": "1.0.0",
+  "dependencies": {
+    "three": "^0.158.0"
+  }
+}
